@@ -12,8 +12,8 @@
 #define LED_PIN 19
 
 // WiFi and MQTT settings
-const char* ssid = "Mee";
-const char* password = "duadansembilan";
+const char* ssid = "Kecoa Berdansa";
+const char* password = "Berbahagialah1";
 const char* mqtt_server = "broker.hivemq.com";
 const int mqtt_port = 1883;
 const char* mqtt_topic_air = "csm3313_umt/group09/airquality";
