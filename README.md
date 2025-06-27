@@ -6,13 +6,6 @@ This repository is the IoT Project in Samsung Innovation Campus (SIC) 2024 Batch
 - Get Detailed Information: Get descriptions, causes, and solutions for each type of disease detected.
 - Easier Plant Care: With the right information, you could take the necessary actions to keep your plants healthy.
 
-
-
-
-
-
-
-
 Our Team - The Ravale (Group 16)
 | Name               | Specialization |
 |--------------------|----------------|
@@ -21,3 +14,6 @@ Our Team - The Ravale (Group 16)
 | Jessica Valencia C | IoT & Business Analyst|
 | Wiefran Varenzo    | IoT Engineer & Programmer|
 
+## 📺 VIDEO DEMO
+
+[https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/PkvvHxAAoCc)
