@@ -14,6 +14,9 @@ Our Team - The Ravale (Group 16)
 | Jessica Valencia C | IoT & Business Analyst|
 | Wiefran Varenzo    | IoT Engineer & Programmer|
 
+## Notebook
+https://colab.research.google.com/drive/11HqYYph5VM2Fj27ATTc8n5BVGP5HVHIK?usp=sharing
+
 ## 📺 VIDEO DEMO
 
 [https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/PkvvHxAAoCc)
